@@ -1,2 +1,5 @@
-/.hugo_build.lock
-/public
+public/
+resources/
+node_modules/
+.hugo_build.lock
+Desktop.ini
